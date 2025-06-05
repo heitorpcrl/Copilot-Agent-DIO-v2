@@ -1,0 +1,11 @@
+<botcomponent schemaname="cr064_dioCopilotAgenteDeTI.knowledge.PublicSiteSearchSource.2">
+  <componenttype>16</componenttype>
+  <description>Esta fonte de conhecimento pesquisa informações na Web encontradas no site https://www.dio.me/projects</description>
+  <iscustomizable>0</iscustomizable>
+  <name>https://www.dio.me/projects</name>
+  <parentbotid>
+    <schemaname>cr064_dioCopilotAgenteDeTI</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

@@ -1,0 +1,11 @@
+<botcomponent schemaname="cr064_dioCopilotAgenteDeTI.gpt.default">
+  <componenttype>15</componenttype>
+  <description>Este copiloto vai ser responsavel por tirar todas as duvidas sobre a parte da T.I e tecnologia, com conhecimento base da DIO.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>DIO copilot agente de T.I</name>
+  <parentbotid>
+    <schemaname>cr064_dioCopilotAgenteDeTI</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
